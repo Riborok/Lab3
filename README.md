@@ -1,7 +1,7 @@
 # Lab №3. Iterative calculations
 ---
 ### Task:
-![The task](https://i.imgur.com/WW9p5wD.png)
+![The task](https://i.imgur.com/4Asv7Ji.png)
 > The program сalculates the value of the function f(x,k), with the value of x, changing from xStart = 0.1 to xLast = 0.9 with a step xStep = 0.1 and accuracies ε1 = 10^(-5) and ε2 = 10^(-6) .
 
 #### Language: Delphi
