@@ -1,7 +1,7 @@
 # Lab №3. Iterative calculations
 ---
 ### Task:
-![The task](https://i.imgur.com/4Asv7Ji.png)
+![The task](https://i.imgur.com/d15uXvO.png)
 > The program сalculates the value of the function f(x,k), with the value of x, changing from xStart = 0.1 to xLast = 0.9 with a step xStep = 0.1 and accuracies ε1 = 10^(-5) and ε2 = 10^(-6) .
 
 #### Language: Delphi
@@ -13,11 +13,11 @@
 ---
 ### Algorithm scheme using the first variant: 
 
-![Algorithm scheme using the first variant Part1](https://i.imgur.com/Xw3f4qk.png)
+![Algorithm scheme using the first variant Part1](https://i.imgur.com/hamBoLC.png)
 
-![Algorithm scheme using the first variant Part2](https://i.imgur.com/Q6t6nE6.png)
+![Algorithm scheme using the first variant Part2](https://i.imgur.com/tkAaaEA.png)
 
-![Algorithm scheme using the first variant Part3](https://i.imgur.com/iVrg7kG.png)
+![Algorithm scheme using the first variant Part3](https://i.imgur.com/yVAdzYn.png)
 
 ### Code using the first variant:
 ``` pascal
@@ -129,11 +129,11 @@ End.
 
 ### Algorithm scheme the second variant:
 
-![Algorithm scheme using the second variant Part1](https://i.imgur.com/J5JG1k6.png)
+![Algorithm scheme using the second variant Part1](https://i.imgur.com/5aW1lID.png)
 
-![Algorithm scheme using the second variant Part2](https://i.imgur.com/4rQq0Et.png)
+![Algorithm scheme using the second variant Part2](https://i.imgur.com/jg6tS62.png)
 
-![Algorithm scheme using the second variant Part3](https://i.imgur.com/cmzCJNv.png)
+![Algorithm scheme using the second variant Part3](https://i.imgur.com/UxcYnyE.png)
 
 ### Code using the second variant:
 ``` pascal
